@@ -8,10 +8,6 @@ This assignement was given for gaining experience with
 - the "Pandas" python-library and data-analysis
 - the "Numpy" python-library and image-processing
 
-### Goals
-The goal of this project is to develop:
-
-
 ## Deploy project
 This project has been written within Jupyter (anaconda) on W10.
 
